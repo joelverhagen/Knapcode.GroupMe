@@ -250,3 +250,6 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# GroupMe test secrets
+testsettings.secret.json
